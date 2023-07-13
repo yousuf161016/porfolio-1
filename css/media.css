@@ -1,0 +1,147 @@
+@media (max-width: 1024px) {
+.header h1::after {
+    width: 343px;
+    top: 55px;
+    left: 74px;
+}
+.header h1::before {
+    left: 217px;
+}
+.Services .header h1::before {
+    left: 208px;
+}
+.statistic .header h1::before {
+    left: 163px;
+}
+.statistic .header h1::after {
+    left: 0px;
+}
+.STORY .header h1::after {
+    left: 55px;
+}
+.STORY .header h1::before {
+    left: 204px;
+}
+.life-content .header h1 {
+    font-size: 25px;
+    text-align: center;
+}
+.life-content .header h1::after {
+    width: 320px;
+    left: -12px;
+}
+.life-content .header h1::before {
+    left: 122px;
+}
+.clint-feedback .header h1::before {
+    left: 200px;
+}
+.touch .header h1::before {
+    left: 197px;
+}
+.Follow .header h1::after {
+    left: 50px;
+}
+.Follow .header h1::before {
+    left: 206px;
+}
+.project .icon {
+    margin-left: 60px;
+}
+.project .icon::before {
+    width: 176px;
+    left: 27%;
+}
+.project .icon::after {
+    width: 173px;
+    left: 50%;
+}
+.icon {
+    border-radius: 50%;
+    padding: 10px;
+    margin: 50px 110px;
+}
+.project .icon {
+    margin-left: 45px;
+}
+.form-control {
+    margin-left: 75% !important;
+}
+.project h4 {
+    margin-left: -74px;
+}
+}
+@media (max-width: 991px) {
+
+
+
+}
+@media (max-width: 768px) {
+
+
+}
+@media (max-width: 575px){
+
+
+}
+@media (max-width: 425px) {
+    .header h1 {
+        font-size: 20px;
+    }
+    .about .header h1 {
+        margin-top: 30px;
+        margin-left: -18px;
+    }
+    .hero-Content p {
+        margin: 0;
+    }
+    .address{
+        display: none;
+    }
+    .navbar-brand {
+        margin-left: 0%;
+    }
+    .header h1::before {
+        display: none;
+    }
+    .header h1::after {
+        display: none;
+    }
+    .banar-content h1 span {
+        margin-left: 0;
+    }
+    .banar-content h1 {
+        padding-top: 94%;
+        font-size: 17px;
+    }
+    .owl-dots {
+        left: 36%;
+        bottom: -48px;
+        transform: translateY(-36%);
+    }
+    .btn-started{
+        margin: 20px;
+    }
+    .project .icon::before {
+        display: none;
+    }
+    .project .icon::after {
+        display: none;
+    }
+    .btn-Gallery {
+        margin: 0px 0px;
+        padding: -1px 0px;
+    }
+    .life-content .header h1 {
+        font-size: 18px;
+    }
+    .project h5 {
+        font-size: 16px;
+    }
+}
+@media (max-width: 375px) {
+
+
+}
+@media (max-width: 320px) {
+}
